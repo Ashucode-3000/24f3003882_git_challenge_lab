@@ -1,1 +1,1 @@
-print('Arithmetic Project Started')
+print('Welcome to Arithmetic Project')
